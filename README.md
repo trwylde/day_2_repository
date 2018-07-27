@@ -1,2 +1,1 @@
-# day_2_repository
-Day 2. New repository
+Have fun. Learn a lot.
